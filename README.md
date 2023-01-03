@@ -1,4 +1,4 @@
-[![MasterHead](https://deeptechbytes.com/wp-content/uploads/2021/05/data-analytics.jpg)]
+![MasterHead](https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg)
 <h1 align="center">Hi 👋, I'm Priya Ranjan Basti</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="250" src="https://miro.medium.com/max/720/1*_105uDSdG5xleVtc4thmHA.gif">
